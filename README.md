@@ -1,4 +1,4 @@
- Education Tracker (Java Swing GUI)
+Education Tracker (Java Swing GUI)
 
 A desktop application built in Java Swing to track subjects, topics, and progress with an interactive interface.  
 Unlike console-based apps, this project features a modern GUI with gradients, hover effects, and dynamic progress bars.  
